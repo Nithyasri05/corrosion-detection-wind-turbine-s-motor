@@ -39,7 +39,7 @@ Due to file size limitations, the full project is hosted on Google Drive.
 🧰 Installation
 1. Clone or Download
 
-git clone https://github.com/yourusername/corrosion-detection.git
+git clone https://github.com/Nithyasri05/corrosion-detection.git
 cd corrosion-detection
 
 Or extract the ZIP you downloaded from the Google Drive link.
